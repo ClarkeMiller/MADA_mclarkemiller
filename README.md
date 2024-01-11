@@ -1,2 +1,4 @@
 # MADA_mclarkemiller
-My very first repository in github.  Weeee!
+Dr. M. Clarke Miller
+First GitHub Repository
+9 January 2024
